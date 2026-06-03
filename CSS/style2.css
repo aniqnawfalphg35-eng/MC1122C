@@ -1,0 +1,62 @@
+body {background-color: sandybrown}
+
+#Logo {float:left; padding:40px 0px 40px 0}
+#Icon {float:right; padding:40px}
+#Navigation {clear:both;
+    border-top:Solid black 1px; padding: 10px;
+    border-bottom:Solid black 1px; padding: 0px 0px 10px 0px;
+padding:25px}
+
+#Navigation a 
+{
+    font-family:Arial; color:black; 
+    margin:0px 25px 0px 0px; 
+}
+   
+
+#Navigation a:hover {color:orange; border:solid black 1px;}
+
+#Title {color:orange; border-bottom:solid 1px black;}
+
+#Content {float:left; width:700px}
+
+#Footer {clear:both;
+        border-top:solid black 1px;
+        padding:0px 0px 15px 0px;
+        text-align:center}
+
+
+#Panel1
+{
+    background-color: rgb(201, 201, 201);
+    border-top:solid maroon 20px;
+    float:right;
+    margin-right: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+#Panel2
+{
+    background-color:rgb(201, 201, 201);
+    border-top:solid maroon 20px;
+    float:right;
+    margin-right: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+#Panel3
+{
+    background-color:rgb(201, 201, 201);
+    border-top:solid maroon 20px;
+    float:right;
+    margin-right: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+
+  
+}
+
+#Kotak {background-color:white;margin:0px auto 0px auto; width:900px}
+#Kotak2 {background-color:white;margin:0px auto 0px auto; width:1000px}
